@@ -53,7 +53,7 @@
             ],
             "volumeMounts": [
               {
-                "mountPath": "/var/lib/mysql/data",
+                "mountPath": "home/student/local/mysql",
                 "name": "db-volume"
               }
             ]
